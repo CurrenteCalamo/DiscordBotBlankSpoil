@@ -1,0 +1,29 @@
+{
+	"name": "simple-discord-bot-blank",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"dev": "nodemon ./index.js",
+		"start": "node  ./index.js",
+		"build": "node ./deploy-commands.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/CurrenteCalamo/SimpleDiscordBotBlank.git"
+	},
+	"keywords": [],
+	"author": "Georgy Khrulev <pppp43777@gmail.com>",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/CurrenteCalamo/SimpleDiscordBotBlank/issues"
+	},
+	"homepage": "https://github.com/CurrenteCalamo/SimpleDiscordBotBlank#readme",
+	"dependencies": {
+		"discord.js": "^14.6.0",
+		"dotenv": "^16.0.3"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.20"
+	}
+}

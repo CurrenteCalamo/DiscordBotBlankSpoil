@@ -1,0 +1,19 @@
+{
+	"avatar": {
+		"ru": {
+			"Title": "Аватар — ",
+			"Description": "**Ниже** ваш аватар",
+			"Option": "**Ниже** аватар"
+		},
+		"en": {
+			"Title": "Avatar — ",
+			"Description": "**Your** avatar",
+			"Option": "**Below** avatar"
+		},
+		"uk": {
+			"Title": "Аватар — ",
+			"Description": "**Нижче** аватар",
+			"Option": "**Нижче** аватар"
+		}
+	}
+}
